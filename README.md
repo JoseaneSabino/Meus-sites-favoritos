@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido como atividade de HTML 5.
+Este projeto foi desenvolvido como atividade de HTML.
 
 A página apresenta cinco sites favoritos, com seus nomes,
 imagens e links para acesso.
@@ -18,7 +18,7 @@ imagens e links para acesso.
 
 ## Tecnologias utilizadas
 
-- HTML 5
+- HTML
 - CSS
 - Visual Studio Code
 
